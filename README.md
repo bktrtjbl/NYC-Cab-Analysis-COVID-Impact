@@ -5,4 +5,4 @@ The New York City Taxi and Limousine Commission (TLC) publishes open data which 
 
 ## Goal and structure
 
-The goal of this project is to present a **coherent and well-coded investigation** into some aspects of the dataset. The project here aims to analyze NY city economy and mobility using Cabs data as a representation.
+The project here aims to analyze NY city economy and mobility using Cabs data as a representation. This was a group project and a significant part of this (atleast 1/4th) was contributed by me (@bktrtjbl).
